@@ -11,15 +11,15 @@ Auto Plus is a car marketplace app that connects buyers and sellers, making the 
 - **Profile Management:** Manage your personal profile and view your listing history effortlessly.
 
 # Screenshots 📸
-<img src="carsellingapp/screenshots/screenshot1.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot2.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot3.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot4.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot5.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot6.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot7.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot8.png" alt="image" width="200" height="auto">
-<img src="carsellingapp/screenshots/screenshot9.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot1.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot2.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot3.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot4.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot5.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot6.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot7.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot8.png" alt="image" width="200" height="auto">
+<img src="carsellingapp/screenshots/Screenshot9.png" alt="image" width="200" height="auto">
 
 
 ## Getting Started
