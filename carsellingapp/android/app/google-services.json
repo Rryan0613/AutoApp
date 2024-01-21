@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675451937138",
+    "project_id": "autopluscarsellingapp",
+    "storage_bucket": "autopluscarsellingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675451937138:android:cf13d7e73b2f5680e3bdeb",
+        "android_client_info": {
+          "package_name": "com.example.carsellingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkbaIhkQ2nvR6OL9hUrPQknPzWSXtPB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
